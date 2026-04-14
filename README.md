@@ -14,13 +14,16 @@ AI-powered workflow blueprints that automate repetitive tasks for various roles 
 - [Daily Meeting Prep & Action Item Tracker](Executive-Assistant/Blueprint-Executive-Assistant-Daily-Meeting-Prep-Action-Item-Tracker.md) — Automates meeting brief generation, attendee research, agenda preparation, and action item tracking across calendar events
 
 ### Fleet Operations Manager
-- [Daily Route Optimization & DOT Compliance Report](Fleet-Operations-Manager/Blueprint-Fleet-Operations-Manager-Daily-Route-Optimization-Compliance-Report.md) — Automates HOS compliance monitoring, AI-powered route optimization, fuel anomaly detection, and driver performance scoring *(NEW)*
+- [Daily Route Optimization & DOT Compliance Report](Fleet-Operations-Manager/Blueprint-Fleet-Operations-Manager-Daily-Route-Optimization-Compliance-Report.md) — Automates HOS compliance monitoring, AI-powered route optimization, fuel anomaly detection, and driver performance scoring
 
 ### HR Recruiter
 - [Automated Candidate Screening Pipeline](HR-Recruiter/Blueprint-HR-Recruiter-Automated-Candidate-Screening-Pipeline.md) — Automates resume parsing, candidate scoring, screening question generation, and pipeline status reporting
 
 ### Insurance Claims Adjuster
 - [Daily Claims Triage Report](Insurance-Claims-Adjuster/Blueprint-Insurance-Claims-Adjuster-Daily-Claims-Triage-Report.md) — Automates claims intake classification, fraud signal detection, severity scoring, and adjuster workload balancing
+
+### Marketing Manager
+- [Weekly Multi-Channel Campaign Performance & Budget Reallocation Report](Marketing-Manager/Blueprint-Marketing-Manager-Weekly-Multi-Channel-Campaign-Performance-Report.md) — Automates cross-platform paid-media aggregation (Google, Meta, LinkedIn, TikTok, GA4), CRM revenue attribution, anomaly detection, and AI-generated budget reallocation recommendations *(NEW)*
 
 ### Office Administrator
 - [Expense Report Processing & Approval Tracker](Office-Administrator/Blueprint-Office-Administrator-Expense-Report-Processing-Approval-Tracker.md) — Automates receipt extraction, policy compliance checks, approval routing, and reimbursement tracking
