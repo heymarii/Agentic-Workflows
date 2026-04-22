@@ -4,6 +4,9 @@ AI-powered workflow blueprints that automate repetitive tasks for various roles 
 
 ## Available Workflows
 
+### Bookkeeper / AP Clerk
+- [Invoice Processing & Payment Reconciliation](Bookkeeper-AP-Clerk/Blueprint-Bookkeeper-AP-Clerk-Invoice-Processing-Payment-Reconciliation.md) — Automates invoice data extraction, GL coding, duplicate detection, three-way matching, and payment reconciliation
+
 ### Content Creator
 - [Weekly Performance Report & Content Calendar](Content-Creator/Blueprint-Content-Creator-Weekly-Performance-Report-and-Calendar.md) — Automates cross-platform analytics aggregation, performance scoring, and AI-assisted content calendar generation
 
@@ -23,7 +26,7 @@ AI-powered workflow blueprints that automate repetitive tasks for various roles 
 - [Daily Claims Triage Report](Insurance-Claims-Adjuster/Blueprint-Insurance-Claims-Adjuster-Daily-Claims-Triage-Report.md) — Automates claims intake classification, fraud signal detection, severity scoring, and adjuster workload balancing
 
 ### Marketing Manager
-- [Weekly Multi-Channel Campaign Performance & Budget Reallocation Report](Marketing-Manager/Blueprint-Marketing-Manager-Weekly-Multi-Channel-Campaign-Performance-Report.md) — Automates cross-platform paid-media aggregation (Google, Meta, LinkedIn, TikTok, GA4), CRM revenue attribution, anomaly detection, and AI-generated budget reallocation recommendations *(NEW)*
+- [Weekly Multi-Channel Campaign Performance & Budget Reallocation Report](Marketing-Manager/Blueprint-Marketing-Manager-Weekly-Multi-Channel-Campaign-Performance-Report.md) — Automates cross-platform paid-media aggregation (Google, Meta, LinkedIn, TikTok, GA4), CRM revenue attribution, anomaly detection, and AI-generated budget reallocation recommendations
 
 ### Office Administrator
 - [Expense Report Processing & Approval Tracker](Office-Administrator/Blueprint-Office-Administrator-Expense-Report-Processing-Approval-Tracker.md) — Automates receipt extraction, policy compliance checks, approval routing, and reimbursement tracking
@@ -36,6 +39,9 @@ AI-powered workflow blueprints that automate repetitive tasks for various roles 
 
 ### Restaurant Manager
 - [Daily Inventory & Waste Tracking Report](Restaurant-Manager/Blueprint-Restaurant-Manager-Daily-Inventory-Waste-Tracking-Report.md) — Automates inventory counting, waste logging, cost analysis, par-level alerts, and supplier order recommendations
+
+### Retail Store Manager *(NEW)*
+- [Daily Sales & Inventory Replenishment Report](Retail-Store-Manager/Blueprint-Retail-Store-Manager-Daily-Sales-Inventory-Replenishment-Report.md) — Automates POS sales analysis, inventory velocity tracking, reorder point calculation, auto-generated purchase orders, dead stock alerts, and floor team action items
 
 ### Sales Rep
 - [Daily Lead Qualification & Follow-Up Report](Sales-Rep/Blueprint-Sales-Rep-Daily-Lead-Qualification-Follow-Up-Report.md) — Automates lead scoring, CRM enrichment, follow-up prioritization, and daily action plan generation
