@@ -54,6 +54,10 @@ Each blueprint includes a workflow diagram, implementation steps, example prompt
 - **[Marketing Manager — Weekly Multi-Channel Campaign Performance Report](Blueprint-Marketing-Manager-Weekly-Multi-Channel-Campaign-Performance-Report.md)**  
   Automates campaign metric collection across channels, ROI calculation, A/B test analysis, and budget reallocation recommendations.
 
+### Property Management
+- **[Property Manager — Daily Maintenance Request Triage & Tenant Communication Report](Blueprint-Property-Manager-Daily-Maintenance-Request-Triage-Tenant-Communication-Report.md)**  
+  Automates maintenance request triage, emergency vendor dispatch, rent collection follow-ups, lease renewal tracking, and daily operations reporting.
+
 ### Product Management
 - **[Product Manager — Weekly Stakeholder Status Report](Blueprint-Product-Manager-Weekly-Stakeholder-Status-Report.md)**  
   Automates sprint data collection, feature progress tracking, blocker identification, and executive-ready status formatting.
