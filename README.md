@@ -9,6 +9,9 @@ Each blueprint includes a workflow diagram, implementation steps, example prompt
 ## Available Blueprints
 
 ### Accounting & Finance
+- **[Accounts Receivable Specialist — Aging Report & Payment Follow-Up Tracker](Blueprint-Accounts-Receivable-Specialist-Aging-Report-Payment-Follow-Up-Tracker.md)**  
+  Automates AR aging categorization, personalized follow-up email generation, payment matching, internal escalations, and daily executive-ready collections reports.
+
 - **[Bookkeeper / AP Clerk — Invoice Processing & Payment Reconciliation](Blueprint-Bookkeeper-AP-Clerk-Invoice-Processing-Payment-Reconciliation.md)**  
   Automates invoice intake, GL coding, duplicate detection, and payment matching.
 
