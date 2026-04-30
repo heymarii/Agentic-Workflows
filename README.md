@@ -50,6 +50,10 @@ Each blueprint includes a workflow diagram, implementation steps, example prompt
 - **[IT Help Desk Technician — Automated Ticket Triage & Resolution Report](Blueprint-IT-Help-Desk-Technician-Automated-Ticket-Triage-Resolution-Report.md)**  
   Automates ticket classification, known-issue matching, first-response drafting, and resolution time tracking.
 
+### Legal
+- **[Paralegal / Legal Assistant — Contract Clause Extraction & Review Tracker](Blueprint-Paralegal-Legal-Assistant-Contract-Clause-Extraction-Review-Tracker.md)**  
+  Automates clause extraction from contracts, comparison against gold-standard templates, risk scoring, attorney notification, and weekly pipeline reporting.
+
 ### Marketing & Content
 - **[Content Creator — Weekly Performance Report & Content Calendar](Blueprint-Content-Creator-Weekly-Performance-Report-and-Calendar.md)**  
   Automates cross-platform analytics aggregation, top-content identification, and AI-assisted content calendar planning.
