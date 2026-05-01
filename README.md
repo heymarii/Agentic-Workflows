@@ -34,6 +34,10 @@ Each blueprint includes a workflow diagram, implementation steps, example prompt
 - **[Office Administrator — Expense Report Processing & Approval Tracker](Blueprint-Office-Administrator-Expense-Report-Processing-Approval-Tracker.md)**  
   Automates receipt extraction, policy compliance checks, approval routing, and reimbursement tracking.
 
+### Healthcare
+- **[Healthcare Practice Manager — Patient Scheduling & Insurance Verification Report](Blueprint-Healthcare-Practice-Manager-Patient-Scheduling-Insurance-Verification-Report.md)**  
+  Automates insurance eligibility batch verification, no-show risk scoring with automated confirmations, prior authorization tracking, schedule gap analysis, and daily revenue forecasting across providers.
+
 ### Food & Hospitality
 - **[Restaurant Manager — Daily Inventory & Waste Tracking Report](Blueprint-Restaurant-Manager-Daily-Inventory-Waste-Tracking-Report.md)**  
   Automates inventory counts, waste logging, cost-of-goods calculations, and reorder alerts.
