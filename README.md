@@ -83,6 +83,10 @@ Each blueprint includes a workflow diagram, implementation steps, example prompt
 - **[Product Manager — Weekly Stakeholder Status Report](Blueprint-Product-Manager-Weekly-Stakeholder-Status-Report.md)**  
   Automates sprint data collection, feature progress tracking, blocker identification, and executive-ready status formatting.
 
+### Real Estate
+- **[Real Estate Agent — Automated Lead Nurture & Market Snapshot Report](Blueprint-Real-Estate-Agent-Automated-Lead-Nurture-Market-Snapshot-Report.md)**  
+  Automates lead scoring and prioritization, neighborhood market snapshot generation from MLS data, personalized outreach drafting, and a daily action report so agents spend time showing homes instead of researching.
+
 ### Property Management
 - **[Property Manager — Daily Maintenance Request Triage & Tenant Communication Report](Blueprint-Property-Manager-Daily-Maintenance-Request-Triage-Tenant-Communication-Report.md)**  
   Automates maintenance request triage, emergency vendor dispatch, rent collection follow-ups, lease renewal tracking, and daily operations reporting.
