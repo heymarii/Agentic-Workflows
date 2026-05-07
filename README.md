@@ -42,6 +42,9 @@ Each blueprint includes a workflow diagram, implementation steps, example prompt
   Automates receipt extraction, policy compliance checks, approval routing, and reimbursement tracking.
 
 ### Food & Hospitality
+- **[Hotel Front Desk Manager — Daily Guest Experience & Revenue Optimization Report](Blueprint-Hotel-Front-Desk-Manager-Daily-Guest-Experience-Revenue-Optimization-Report.md)**  
+  Automates pre-arrival guest profiling, VIP recognition, shift handoff reports, OTA review monitoring with AI-drafted responses, housekeeping coordination, and daily revenue/occupancy optimization.
+
 - **[Restaurant Manager — Daily Inventory & Waste Tracking Report](Blueprint-Restaurant-Manager-Daily-Inventory-Waste-Tracking-Report.md)**  
   Automates inventory counts, waste logging, cost-of-goods calculations, and reorder alerts.
 
