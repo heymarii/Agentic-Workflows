@@ -41,6 +41,10 @@ Each blueprint includes a workflow diagram, implementation steps, example prompt
 - **[Office Administrator — Expense Report Processing & Approval Tracker](Blueprint-Office-Administrator-Expense-Report-Processing-Approval-Tracker.md)**  
   Automates receipt extraction, policy compliance checks, approval routing, and reimbursement tracking.
 
+### Events & Planning
+- **[Event Planner / Coordinator — Automated Vendor, Timeline & Budget Tracker](Blueprint-Event-Planner-Coordinator-Automated-Vendor-Timeline-Budget-Tracker.md)**  
+  Automates vendor follow-up tracking, timeline milestone management, budget reconciliation, RSVP aggregation from multiple sources, day-of run sheet generation, and daily operations briefings across all active events.
+
 ### Food & Hospitality
 - **[Hotel Front Desk Manager — Daily Guest Experience & Revenue Optimization Report](Blueprint-Hotel-Front-Desk-Manager-Daily-Guest-Experience-Revenue-Optimization-Report.md)**  
   Automates pre-arrival guest profiling, VIP recognition, shift handoff reports, OTA review monitoring with AI-drafted responses, housekeeping coordination, and daily revenue/occupancy optimization.
