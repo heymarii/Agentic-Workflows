@@ -82,6 +82,10 @@ Each blueprint includes a workflow diagram, implementation steps, example prompt
 - **[Marketing Manager — Weekly Multi-Channel Campaign Performance Report](Blueprint-Marketing-Manager-Weekly-Multi-Channel-Campaign-Performance-Report.md)**  
   Automates campaign metric collection across channels, ROI calculation, A/B test analysis, and budget reallocation recommendations.
 
+### Nonprofit Management
+- **[Nonprofit Program Manager — Automated Grant Compliance & Impact Reporting](Blueprint-Nonprofit-Program-Manager-Automated-Grant-Compliance-Impact-Reporting.md)**  
+  Automates grant deadline tracking, multi-source data aggregation, budget-to-actual reconciliation, funder-specific narrative report generation, daily compliance dashboards, and proactive spending/data gap alerts across all active grants.
+
 ### Procurement
 - **[Procurement Specialist — Vendor Quote Comparison Report](Blueprint-Procurement-Specialist-Vendor-Quote-Comparison-Report.md)**  
   Automates quote extraction, side-by-side comparison, scoring against criteria, and recommendation generation.
