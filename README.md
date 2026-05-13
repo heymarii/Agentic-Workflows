@@ -15,6 +15,10 @@ Each blueprint includes a workflow diagram, implementation steps, example prompt
 - **[Bookkeeper / AP Clerk — Invoice Processing & Payment Reconciliation](Blueprint-Bookkeeper-AP-Clerk-Invoice-Processing-Payment-Reconciliation.md)**  
   Automates invoice intake, GL coding, duplicate detection, and payment matching.
 
+### Compliance & Regulatory Affairs
+- **[Compliance Officer — Regulatory Change Monitoring & Policy Impact Assessment](Compliance-Officer/Blueprint-Compliance-Officer-Regulatory-Change-Monitoring-Impact-Assessment.md)**  
+  Automates daily scanning of Federal Register, SEC, FINRA, OSHA, and state agency publications, AI-powered relevance scoring against organizational profile, deep policy impact analysis, gap identification, and prioritized daily intelligence reports with executive weekly summaries.
+
 ### Construction
 - **[Construction Project Manager — Daily Site Progress & Safety Compliance Report](Blueprint-Construction-Project-Manager-Daily-Site-Progress-Safety-Compliance-Report.md)**  
   Automates daily construction logs, safety checklists, weather impact tracking, schedule variance, and multi-stakeholder report distribution.
@@ -113,13 +117,17 @@ Each blueprint includes a workflow diagram, implementation steps, example prompt
 - **[Supply Chain Coordinator — Daily Shipment Exception Report](Blueprint-Supply-Chain-Coordinator-Daily-Shipment-Exception-Report.md)**  
   Automates shipment tracking, delay detection, carrier performance scoring, and exception alert distribution.
 
+### Warehouse & Distribution
+- **[Warehouse Operations Supervisor — Daily Pick-Pack Accuracy & Labor Productivity Report](Blueprint-Warehouse-Operations-Supervisor-Daily-Pick-Pack-Accuracy-Labor-Productivity-Report.md)**  
+  Automates pick accuracy tracking, labor productivity metrics, order cycle time analysis, and shift performance reporting.
+
 ---
 
 ## How to Use These Blueprints
 
 1. **Find your role** in the list above
 2. **Read the blueprint** — each one explains the problem, the automated solution, and exactly how to set it up
-3. **Start with Week 1** — every blueprint includes a 5-day quick-start plan
+3. **Start with Week 1** — every blueprint includes a quick-start plan
 4. **Customize** — adapt the prompts, tools, and outputs to your specific workflow
 
 ## Who This Is For
