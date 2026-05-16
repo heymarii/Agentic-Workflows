@@ -1,139 +1,100 @@
-# Agentic Workflows — AI Automation Blueprints
+# Agentic Workflows
 
-A growing collection of ready-to-implement AI automation blueprints designed to give professionals **10+ hours back per week** by replacing repetitive manual tasks with intelligent workflows.
+A growing collection of **AI-powered automation blueprints** designed to give back 10+ hours per week to professionals drowning in repetitive tasks.
 
-Each blueprint includes a workflow diagram, implementation steps, example prompts, sample outputs, cost estimates, and ROI analysis. Built for non-technical users and small businesses who want to incorporate AI into their daily operations without needing a development team.
+Each blueprint provides a complete, implementable workflow — including problem analysis, architecture diagrams, working code, AI prompts, example outputs, and ROI calculations — so any team can adopt it quickly.
 
 ---
 
-## Available Blueprints
+## Available Workflows
 
 ### Accounting & Finance
-- **[Accounts Receivable Specialist — Aging Report & Payment Follow-Up Tracker](Blueprint-Accounts-Receivable-Specialist-Aging-Report-Payment-Follow-Up-Tracker.md)**  
-  Automates AR aging categorization, personalized follow-up email generation, payment matching, internal escalations, and daily executive-ready collections reports.
+- [Accounts Receivable Specialist — Aging Report & Payment Follow-Up Tracker](Blueprint-Accounts-Receivable-Specialist-Aging-Report-Payment-Follow-Up-Tracker.md)
+- [Bookkeeper / AP Clerk — Invoice Processing & Payment Reconciliation](Blueprint-Bookkeeper-AP-Clerk-Invoice-Processing-Payment-Reconciliation.md)
 
-- **[Bookkeeper / AP Clerk — Invoice Processing & Payment Reconciliation](Blueprint-Bookkeeper-AP-Clerk-Invoice-Processing-Payment-Reconciliation.md)**  
-  Automates invoice intake, GL coding, duplicate detection, and payment matching.
+### Administration & Operations
+- [Executive Assistant — Daily Meeting Prep & Action Item Tracker](Blueprint-Executive-Assistant-Daily-Meeting-Prep-Action-Item-Tracker.md)
+- [Office Administrator — Expense Report Processing & Approval Tracker](Blueprint-Office-Administrator-Expense-Report-Processing-Approval-Tracker.md)
 
-### Compliance & Regulatory Affairs
-- **[Compliance Officer — Regulatory Change Monitoring & Policy Impact Assessment](Compliance-Officer/Blueprint-Compliance-Officer-Regulatory-Change-Monitoring-Impact-Assessment.md)**  
-  Automates daily scanning of Federal Register, SEC, FINRA, OSHA, and state agency publications, AI-powered relevance scoring against organizational profile, deep policy impact analysis, gap identification, and prioritized daily intelligence reports with executive weekly summaries.
+### Compliance & Legal
+- [Compliance Officer — Regulatory Change Monitoring & Impact Assessment](Compliance-Officer/Blueprint-Compliance-Officer-Regulatory-Change-Monitoring-Impact-Assessment.md)
+- [Paralegal / Legal Assistant — Contract Clause Extraction & Review Tracker](Blueprint-Paralegal-Legal-Assistant-Contract-Clause-Extraction-Review-Tracker.md)
 
-### Construction
-- **[Construction Project Manager — Daily Site Progress & Safety Compliance Report](Blueprint-Construction-Project-Manager-Daily-Site-Progress-Safety-Compliance-Report.md)**  
-  Automates daily construction logs, safety checklists, weather impact tracking, schedule variance, and multi-stakeholder report distribution.
+### Construction & Real Estate
+- [Construction Project Manager — Daily Site Progress & Safety Compliance Report](Blueprint-Construction-Project-Manager-Daily-Site-Progress-Safety-Compliance-Report.md)
+- [Property Manager — Daily Maintenance Request Triage & Tenant Communication Report](Blueprint-Property-Manager-Daily-Maintenance-Request-Triage-Tenant-Communication-Report.md)
+- [Real Estate Agent — Automated Lead Nurture & Market Snapshot Report](Blueprint-Real-Estate-Agent-Automated-Lead-Nurture-Market-Snapshot-Report.md)
 
-### Customer Service
-- **[Customer Support Manager — Daily Ticket Triage & Escalation Report](Blueprint-Customer-Support-Manager-Daily-Ticket-Triage-Escalation-Report.md)**  
-  Automates ticket categorization, priority scoring, SLA tracking, and escalation alerts.
+### Customer Support
+- [Customer Support Manager — Daily Ticket Triage & Escalation Report](Blueprint-Customer-Support-Manager-Daily-Ticket-Triage-Escalation-Report.md)
 
-### E-commerce & Retail Operations
-- **[E-commerce Operations Manager — Daily Order Exception & Inventory Reconciliation Report](Blueprint-Ecommerce-Operations-Manager-Daily-Order-Exception-Inventory-Reconciliation-Report.md)**  
-  Automates multi-channel order exception scanning, inventory discrepancy detection across Shopify/Amazon/WMS, returns auto-triage against policy rules, oversell prevention, and daily executive operations reporting.
-
-- **[Retail Store Manager — Daily Sales & Inventory Replenishment Report](Blueprint-Retail-Store-Manager-Daily-Sales-Inventory-Replenishment-Report.md)**  
-  Automates POS data aggregation, inventory level monitoring, reorder point alerts, and sales trend analysis.
+### Ecommerce & Retail
+- [Ecommerce Operations Manager — Daily Order Exception & Inventory Reconciliation Report](Blueprint-Ecommerce-Operations-Manager-Daily-Order-Exception-Inventory-Reconciliation-Report.md)
+- [Retail Store Manager — Daily Sales & Inventory Replenishment Report](Blueprint-Retail-Store-Manager-Daily-Sales-Inventory-Replenishment-Report.md)
 
 ### Education
-- **[Teacher — Weekly Student Progress Report](Blueprint-Teacher-Weekly-Student-Progress-Report.md)**  
-  Automates grade aggregation, behavior tracking, parent communication, and intervention recommendations.
+- [Teacher — Weekly Student Progress Report](Blueprint-Teacher-Weekly-Student-Progress-Report.md)
+- [Training & Development Coordinator — Training Compliance & Enrollment Tracker](Blueprint-Training-Development-Coordinator-Training-Compliance-Enrollment-Tracker.md)
 
-### Executive & Administrative
-- **[Executive Assistant — Daily Meeting Prep & Action Item Tracker](Blueprint-Executive-Assistant-Daily-Meeting-Prep-Action-Item-Tracker.md)**  
-  Automates calendar briefing documents, attendee research, agenda compilation, and post-meeting action tracking.
-
-- **[Office Administrator — Expense Report Processing & Approval Tracker](Blueprint-Office-Administrator-Expense-Report-Processing-Approval-Tracker.md)**  
-  Automates receipt extraction, policy compliance checks, approval routing, and reimbursement tracking.
-
-### Events & Planning
-- **[Event Planner / Coordinator — Automated Vendor, Timeline & Budget Tracker](Blueprint-Event-Planner-Coordinator-Automated-Vendor-Timeline-Budget-Tracker.md)**  
-  Automates vendor follow-up tracking, timeline milestone management, budget reconciliation, RSVP aggregation from multiple sources, day-of run sheet generation, and daily operations briefings across all active events.
-
-### Food & Hospitality
-- **[Hotel Front Desk Manager — Daily Guest Experience & Revenue Optimization Report](Blueprint-Hotel-Front-Desk-Manager-Daily-Guest-Experience-Revenue-Optimization-Report.md)**  
-  Automates pre-arrival guest profiling, VIP recognition, shift handoff reports, OTA review monitoring with AI-drafted responses, housekeeping coordination, and daily revenue/occupancy optimization.
-
-- **[Restaurant Manager — Daily Inventory & Waste Tracking Report](Blueprint-Restaurant-Manager-Daily-Inventory-Waste-Tracking-Report.md)**  
-  Automates inventory counts, waste logging, cost-of-goods calculations, and reorder alerts.
-
-### Healthcare
-- **[Healthcare Practice Manager — Patient Scheduling & Insurance Verification Report](Blueprint-Healthcare-Practice-Manager-Patient-Scheduling-Insurance-Verification-Report.md)**  
-  Automates insurance eligibility batch verification, no-show risk scoring with automated confirmations, prior authorization tracking, schedule gap analysis, and daily revenue forecasting across providers.
+### Healthcare & Hospitality
+- [Healthcare Practice Manager — Patient Scheduling & Insurance Verification Report](Blueprint-Healthcare-Practice-Manager-Patient-Scheduling-Insurance-Verification-Report.md)
+- [Hotel Front Desk Manager — Daily Guest Experience & Revenue Optimization Report](Blueprint-Hotel-Front-Desk-Manager-Daily-Guest-Experience-Revenue-Optimization-Report.md)
 
 ### Human Resources
-- **[HR Recruiter — Automated Candidate Screening Pipeline](Blueprint-HR-Recruiter-Automated-Candidate-Screening-Pipeline.md)**  
-  Automates resume parsing, qualification scoring, interview scheduling, and candidate status tracking.
-
-- **[Training & Development Coordinator — Training Compliance & Enrollment Tracker](Blueprint-Training-Development-Coordinator-Training-Compliance-Enrollment-Tracker.md)**  
-  Automates LMS compliance tracking, personalized reminder emails, certification expiry warnings, auto-enrollment scheduling, and weekly executive compliance reports.
+- [HR Recruiter — Automated Candidate Screening Pipeline](Blueprint-HR-Recruiter-Automated-Candidate-Screening-Pipeline.md)
 
 ### Insurance
-- **[Insurance Claims Adjuster — Daily Claims Triage Report](Blueprint-Insurance-Claims-Adjuster-Daily-Claims-Triage-Report.md)**  
-  Automates claim intake classification, fraud indicator flagging, priority assignment, and adjuster workload balancing.
+- [Insurance Claims Adjuster — Daily Claims Triage Report](Blueprint-Insurance-Claims-Adjuster-Daily-Claims-Triage-Report.md)
 
-### IT & Technology
-- **[IT Help Desk Technician — Automated Ticket Triage & Resolution Report](Blueprint-IT-Help-Desk-Technician-Automated-Ticket-Triage-Resolution-Report.md)**  
-  Automates ticket classification, known-issue matching, first-response drafting, and resolution time tracking.
+### IT & Engineering
+- [IT Help Desk Technician — Automated Ticket Triage & Resolution Report](Blueprint-IT-Help-Desk-Technician-Automated-Ticket-Triage-Resolution-Report.md)
+- [QA Analyst — Automated Daily Test & Regression Bug Triage Report](QA-Analyst/Blueprint-QA-Analyst-Automated-Daily-Test-Regression-Bug-Triage-Report.md)
 
-### Legal
-- **[Paralegal / Legal Assistant — Contract Clause Extraction & Review Tracker](Blueprint-Paralegal-Legal-Assistant-Contract-Clause-Extraction-Review-Tracker.md)**  
-  Automates clause extraction from contracts, comparison against gold-standard templates, risk scoring, attorney notification, and weekly pipeline reporting.
+### Logistics & Supply Chain
+- [Fleet Operations Manager — Daily Route Optimization & Compliance Report](Blueprint-Fleet-Operations-Manager-Daily-Route-Optimization-Compliance-Report.md)
+- [Procurement Specialist — Vendor Quote Comparison Report](Blueprint-Procurement-Specialist-Vendor-Quote-Comparison-Report.md)
+- [Supply Chain Coordinator — Daily Shipment Exception Report](Blueprint-Supply-Chain-Coordinator-Daily-Shipment-Exception-Report.md)
+- [Warehouse Operations Supervisor — Daily Pick-Pack Accuracy & Labor Productivity Report](Blueprint-Warehouse-Operations-Supervisor-Daily-Pick-Pack-Accuracy-Labor-Productivity-Report.md)
 
 ### Marketing & Content
-- **[Content Creator — Weekly Performance Report & Content Calendar](Blueprint-Content-Creator-Weekly-Performance-Report-and-Calendar.md)**  
-  Automates cross-platform analytics aggregation, top-content identification, and AI-assisted content calendar planning.
+- [Content Creator — Weekly Performance Report & Calendar](Blueprint-Content-Creator-Weekly-Performance-Report-and-Calendar.md)
+- [Marketing Manager — Weekly Multi-Channel Campaign Performance Report](Blueprint-Marketing-Manager-Weekly-Multi-Channel-Campaign-Performance-Report.md)
 
-- **[Marketing Manager — Weekly Multi-Channel Campaign Performance Report](Blueprint-Marketing-Manager-Weekly-Multi-Channel-Campaign-Performance-Report.md)**  
-  Automates campaign metric collection across channels, ROI calculation, A/B test analysis, and budget reallocation recommendations.
-
-### Nonprofit Management
-- **[Nonprofit Program Manager — Automated Grant Compliance & Impact Reporting](Blueprint-Nonprofit-Program-Manager-Automated-Grant-Compliance-Impact-Reporting.md)**  
-  Automates grant deadline tracking, multi-source data aggregation, budget-to-actual reconciliation, funder-specific narrative report generation, daily compliance dashboards, and proactive spending/data gap alerts across all active grants.
-
-### Procurement
-- **[Procurement Specialist — Vendor Quote Comparison Report](Blueprint-Procurement-Specialist-Vendor-Quote-Comparison-Report.md)**  
-  Automates quote extraction, side-by-side comparison, scoring against criteria, and recommendation generation.
+### Nonprofit
+- [Nonprofit Program Manager — Automated Grant Compliance & Impact Reporting](Blueprint-Nonprofit-Program-Manager-Automated-Grant-Compliance-Impact-Reporting.md)
 
 ### Product Management
-- **[Product Manager — Weekly Stakeholder Status Report](Blueprint-Product-Manager-Weekly-Stakeholder-Status-Report.md)**  
-  Automates sprint data collection, feature progress tracking, blocker identification, and executive-ready status formatting.
-
-### Real Estate
-- **[Real Estate Agent — Automated Lead Nurture & Market Snapshot Report](Blueprint-Real-Estate-Agent-Automated-Lead-Nurture-Market-Snapshot-Report.md)**  
-  Automates lead scoring and prioritization, neighborhood market snapshot generation from MLS data, personalized outreach drafting, and a daily action report so agents spend time showing homes instead of researching.
-
-### Property Management
-- **[Property Manager — Daily Maintenance Request Triage & Tenant Communication Report](Blueprint-Property-Manager-Daily-Maintenance-Request-Triage-Tenant-Communication-Report.md)**  
-  Automates maintenance request triage, emergency vendor dispatch, rent collection follow-ups, lease renewal tracking, and daily operations reporting.
+- [Product Manager — Weekly Stakeholder Status Report](Blueprint-Product-Manager-Weekly-Stakeholder-Status-Report.md)
 
 ### Sales
-- **[Sales Rep — Daily Lead Qualification & Follow-Up Report](Blueprint-Sales-Rep-Daily-Lead-Qualification-Follow-Up-Report.md)**  
-  Automates lead scoring, CRM data enrichment, follow-up email drafting, and pipeline status tracking.
+- [Sales Rep — Daily Lead Qualification & Follow-Up Report](Blueprint-Sales-Rep-Daily-Lead-Qualification-Follow-Up-Report.md)
 
-### Supply Chain & Logistics
-- **[Fleet Operations Manager — Daily Route Optimization & Compliance Report](Blueprint-Fleet-Operations-Manager-Daily-Route-Optimization-Compliance-Report.md)**  
-  Automates route planning, fuel cost analysis, HOS compliance monitoring, and delivery performance tracking.
+### Events
+- [Event Planner / Coordinator — Automated Vendor, Timeline & Budget Tracker](Blueprint-Event-Planner-Coordinator-Automated-Vendor-Timeline-Budget-Tracker.md)
 
-- **[Supply Chain Coordinator — Daily Shipment Exception Report](Blueprint-Supply-Chain-Coordinator-Daily-Shipment-Exception-Report.md)**  
-  Automates shipment tracking, delay detection, carrier performance scoring, and exception alert distribution.
-
-### Warehouse & Distribution
-- **[Warehouse Operations Supervisor — Daily Pick-Pack Accuracy & Labor Productivity Report](Blueprint-Warehouse-Operations-Supervisor-Daily-Pick-Pack-Accuracy-Labor-Productivity-Report.md)**  
-  Automates pick accuracy tracking, labor productivity metrics, order cycle time analysis, and shift performance reporting.
+### Food & Beverage
+- [Restaurant Manager — Daily Inventory & Waste Tracking Report](Blueprint-Restaurant-Manager-Daily-Inventory-Waste-Tracking-Report.md)
 
 ---
 
 ## How to Use These Blueprints
 
 1. **Find your role** in the list above
-2. **Read the blueprint** — each one explains the problem, the automated solution, and exactly how to set it up
-3. **Start with Week 1** — every blueprint includes a quick-start plan
-4. **Customize** — adapt the prompts, tools, and outputs to your specific workflow
-
-## Who This Is For
-
-These blueprints are designed for professionals and small business owners who are not necessarily technical but want to leverage AI to eliminate busywork. No coding experience is required for most blueprints — where code is included, it's copy-paste ready with clear instructions.
+2. **Read the blueprint** — understand the problem, the solution, and the expected ROI
+3. **Customize the code** — swap in your own API keys, tool endpoints, and team-specific configurations
+4. **Deploy** — set up the scheduled automation (cron, GitHub Actions, or your preferred scheduler)
+5. **Iterate** — gather feedback from your team and refine the workflow
 
 ---
 
-*New blueprints added daily. Have a role or task you'd like automated? Open an issue!*
+## Contributing
+
+Have a role or workflow you'd like to see automated? Open an issue or submit a PR with a new blueprint following the naming convention:
+
+```
+Blueprint-[Role]-[Task-Name].md
+```
+
+---
+
+*Built with the belief that AI should give people their time back — not replace them, but free them to do the work that actually matters.*
